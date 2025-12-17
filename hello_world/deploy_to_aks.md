@@ -220,6 +220,9 @@ kubectl describe pod <pod-name>
 
 ---
 
+In case if you update the code refer below:
+[code update changes here](update_to_aks_upon_code_change.md)
+
 ## 🔜 Recommended next steps (AKS best practices)
 
 When you’re ready, I can help you add:

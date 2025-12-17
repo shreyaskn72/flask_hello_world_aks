@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: flask-hello
-        image: azuretestregistry.azurecr.io/flask-hello:latest
+        image: azuretestregistry.azurecr.io/flask-hello:v2
         ports:
         - containerPort: 5000
