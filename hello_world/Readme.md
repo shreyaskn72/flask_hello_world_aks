@@ -174,6 +174,6 @@ Next steps are:
 2. Create Kubernetes Deployment
 3. Create Service (LoadBalancer)
 
-👉 Just say:
+
 **“Deploy this image to my existing AKS cluster”**
-and I’ll guide you command-by-command with explanations.
+refer deploy_to_aks.md
