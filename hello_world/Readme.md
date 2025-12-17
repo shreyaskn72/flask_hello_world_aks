@@ -175,5 +175,5 @@ Next steps are:
 3. Create Service (LoadBalancer)
 
 
-**“Deploy this image to my existing AKS cluster”**
-refer deploy_to_aks.md
+Refer this for next steps:
+[Deploy this image to my existing AKS cluster](deploy_to_aks.md)
